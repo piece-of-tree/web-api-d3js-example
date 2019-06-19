@@ -1,14 +1,3 @@
-
-// db.temperature.insert({State:'AZ',freq:{low:1101, mid:412, high:674}});
-// db.temperature.insert({State:'CT',freq:{low:932, mid:2149, high:418}});
-// db.temperature.insert({State:'DE',freq:{low:832, mid:1152, high:1862}});
-// db.temperature.insert({State:'FL',freq:{low:4481, mid:3304, high:948}});
-// db.temperature.insert({State:'GA',freq:{low:1619, mid:167, high:1063}});
-// db.temperature.insert({State:'IA',freq:{low:1819, mid:247, high:1203}});
-// db.temperature.insert({State:'IL',freq:{low:4498, mid:3852, high:942}});
-// db.temperature.insert({State:'IN',freq:{low:797, mid:1849, high:1534}});
-// db.temperature.insert({State:'KS',freq:{low:162, mid:379, high:471}});
-
 const app = require('express')();
 
 const freqData = [
